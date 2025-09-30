@@ -13,6 +13,8 @@ SEDIK, LLC is struggling to maintain adherence to industry standards and AWS bes
 
 ## Architecture
 
+<img width="2118" height="782" alt="image" src="https://github.com/user-attachments/assets/5d8adab5-2722-406b-a44d-64076cea1791" />
+
 The solution includes:
 - **AWS Security Hub**: Central security findings aggregation
 - **AWS Config**: Configuration compliance monitoring  
